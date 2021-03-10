@@ -1,4 +1,4 @@
-name: Deploy Devs
+name: Deploy ECS Devs
 
 on:
   workflow_dispatch:
