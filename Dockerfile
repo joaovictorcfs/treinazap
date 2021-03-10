@@ -1,3 +1,3 @@
 FROM nginx:1.15
-COPY Build/ /usr/share/nginx/html
+COPY build/ /usr/share/nginx/html
 EXPOSE 80
